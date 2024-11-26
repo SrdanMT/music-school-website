@@ -24,9 +24,9 @@ A simple, static website for a music school featuring information about:
 3. Open the index.html file in your browser to view the website.
 
 ## Technologies Used
-- **HTML** for structure.
-- **CSS** for styling.
-- **JavaScript** for interactivity.
+JavaScript: The primary tool for generating and managing the page content, including dynamic navigation, interactivity, and rendering of all sections.
+HTML: Provides the minimal initial structure as a framework for JavaScript to build on.
+CSS: Ensures visual styling and enhances the overall appearance of the website.
 
 ## Future Enhancements
 - Make the website responsive for all devices.
