@@ -26,7 +26,7 @@ A simple, static website for a music school featuring information about:
 ## Technologies Used
 - **HTML** for structure.
 - **CSS** for styling.
-- **JavaScript** for interactivity (if any).
+- **JavaScript** for interactivity.
 
 ## Future Enhancements
 - Make the website responsive for all devices.
