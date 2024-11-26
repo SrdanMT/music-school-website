@@ -30,8 +30,6 @@ A simple, static website for a music school featuring information about:
 
 ## Future Enhancements
 - Make the website responsive for all devices.
-- Add a gallery of student performances.
-- Integrate a contact form for inquiries.
 
 ## Author
 - **Srdan Cakalj**
